@@ -32,6 +32,9 @@ This plug-in provides a daily archive.
 
 == Changelog ==
 
+= 1.1 =
+* remove screen-reader-text.
+
 = 1.0 =
 * Delete does not use filters. 사용하지 않는 필터 삭제.
 * update readme.txt
